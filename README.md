@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm Anastasiya 👋
 
-<!--
-**anastasiyaperk/anastasiyaperk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Machine Learning Developer  
+🎓 Master's Degree in Computer Science at [South Ural State University](https://www.susu.ru/)  
+📚 Interested in Natural Language Processing  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main stack
+[![Main](https://skillicons.dev/icons?i=py,ai,pytorch,fastapi,flask,rabbitmq,redis,docker,gitlab)](https://skillicons.dev)
+
+
+### Other
+[![Other](https://skillicons.dev/icons?i=r,opencv)](https://skillicons.dev)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiyaperk&theme=radical)
